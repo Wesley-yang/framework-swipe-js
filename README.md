@@ -48,4 +48,4 @@
 </tr>
 </table>
 
-[推荐文档](http://www.jiawin.com/swipe-mobile-touch-slider)
+* 推荐文档([http://www.jiawin.com/swipe-mobile-touch-slider](http://www.jiawin.com/swipe-mobile-touch-slider))
